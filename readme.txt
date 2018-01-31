@@ -12,4 +12,4 @@ Git has a mutable index called stage.
 
 hello
 
-Git tracks changes.
+Git tracks changes of files.
