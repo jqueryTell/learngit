@@ -13,3 +13,5 @@ Git has a mutable index called stage.
 hello
 
 Git tracks changes of files.
+
+Add one new line.
