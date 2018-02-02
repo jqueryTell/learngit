@@ -15,3 +15,5 @@ hello
 Git tracks changes of files.
 
 Add one new line.
+
+Add errors.
