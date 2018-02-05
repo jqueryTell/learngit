@@ -17,3 +17,4 @@ Git tracks changes of files.
 Add one new line.
 
 Add errors.
+Creating a new branch is quick.
